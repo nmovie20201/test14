@@ -1,0 +1,464 @@
+{
+    "name": "Serie-Days VOD",
+    "provider": "Thai Scraper Master",
+    "items": [
+        {
+            "name": "Pentor (2026) เป็นต่อ",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/01/Pentor-2026.jpg",
+            "plot": "Pentor (2026) เป็นต่อ แก๊งเป็นต่อ กลับมาทวงคืนบัลลังก์เจ้าพ่อซิทคอมไทย! เมื่อเหล่าตัวตึงย่านวิภาวดีที่คนเจ้าชู้ยังต้องเรียกพี่ สายปาร์ตี้ยังต้องซูฮก กลับมารวมตัวกันพร้อมสาดความฮาแบบจัดเต็มอัตราศึก เตรียมพบกับวีรกรรมสุดแสบของ เป็นต่อ, พี่อู๊ด, พี่วอก และพี่พอน ที่จะมาทำให้คืนวันพฤหัสบดีของคุณไม่เหงาอีกต่อไป",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/03306c4120d2194dc832fe99/03306c4120d2194dc832fe99.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/8467cccc2169893aef199a0f/8467cccc2169893aef199a0f.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/b1c6aecbd163a78abfc1824d/b1c6aecbd163a78abfc1824d.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/2babe8a4ff2f6c982b3c5607/2babe8a4ff2f6c982b3c5607.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/bfeb0c51f01e02cffbf1825b/bfeb0c51f01e02cffbf1825b.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/a7af3961c6050669888bda4c/a7af3961c6050669888bda4c.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 7",
+                            "url": "https://main.24playerhd.com/newplaylist/e2ae864cc2e3c14a3e283c4a/e2ae864cc2e3c14a3e283c4a.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 8",
+                            "url": "https://main.24playerhd.com/newplaylist/35e757c4646de383c08e19b2/35e757c4646de383c08e19b2.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 9",
+                            "url": "https://main.24playerhd.com/newplaylist/1023b45b7dbf8284b661c4d2/1023b45b7dbf8284b661c4d2.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 10",
+                            "url": "https://main.24playerhd.com/newplaylist/778376435c3b3f6fe625eb34/778376435c3b3f6fe625eb34.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 11",
+                            "url": "https://main.24playerhd.com/newplaylist/dc4b215bcfeedcbd4fd30a37/dc4b215bcfeedcbd4fd30a37.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 12",
+                            "url": "https://main.24playerhd.com/newplaylist/8c5a7cbd816183d29eca87c5/8c5a7cbd816183d29eca87c5.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sold Out On You (2026) รักเธอหมดใจ",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/04/Sold-Out-On-You-2026.jpg",
+            "plot": "Sold Out On You (2026) รักเธอหมดใจ พิธีกรรายการขายของทางทีวีเดินทางไปที่แถบชนบท เพื่อหวังกอบกู้ยอดขายให้ติดอันดับหนึ่งอีกครั้ง แต่ชาวไร่ลึกลับกลับเข้ามาป่วนทั้งแผนการและหัวใจของเธอ",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/03ac107b7b6c9c650fd82ad9/03ac107b7b6c9c650fd82ad9.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/de6110bd2ac838962cc2da9c/de6110bd2ac838962cc2da9c.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Wishing Upon the Shooting Stars (2026) คำอธิษฐานใต้ดวงดาว",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/03/Wishing-Upon-the-Shooting-Stars-2026-คำอธิษฐานใต้ดวงดาว.jpg",
+            "plot": "Wishing Upon the Shooting Stars (2026) คำอธิษฐานใต้ดวงดาวหลังจากถูกไล่ออกจากงาน เซียงหยง พนักงานออฟฟิศขี้อายก็เดินทางกลับบ้านเกิดจากไทเป และอธิษฐานขอให้ไม่มีใครจำได้ แต่คำอธิษฐานของเขากลับเป็นจริงอย่างน่าประหลาดใจ เขาถูกเข้าใจผิดว่าเป็นคนแปลกหน้าและถูกพ่อไล่ออกจากบ้าน",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/7382cad1ca0a0e0c97b9add5/7382cad1ca0a0e0c97b9add5.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/638515669506e7e986a5dd3e/638515669506e7e986a5dd3e.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/5d5c031858be20ba98458b71/5d5c031858be20ba98458b71.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/70046b1a63d512b57a9579fb/70046b1a63d512b57a9579fb.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/c6f2a9071f16369b4ac5c493/c6f2a9071f16369b4ac5c493.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/ba57d5da00aa0372a6f4cacb/ba57d5da00aa0372a6f4cacb.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Scandal Love (2026)",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/04/Scandal-Love-2026.jpg",
+            "plot": "Scandal Love (2026)ในอุตสาหกรรมไอดอลที่เน้นการค้าอย่างมาก “อารมณ์” ถูกออกแบบมาอย่างพิถีพิถัน ควบคุมอย่างแม่นยำ และท้ายที่สุดก็ถูก เปลี่ยนให้กลายเป็นสินค้าเพื่อขาย “Scandal Love” นำเสนอเรื่องราวในระบบนิเวศของกลุ่มไอดอลหญิงในเอเชียตะวันออก และเน้นไปที่ผู้หญิงที่อยู่ในระดับอำนาจที่แตกต่างกัน",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/29f7ce52d96064e7f6fbd8c9/29f7ce52d96064e7f6fbd8c9.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/6f11ff67404985fc27c0e498/6f11ff67404985fc27c0e498.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/96bc90bc54d0b9ee4c7c2ae5/96bc90bc54d0b9ee4c7c2ae5.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/edaaf018d0061e4cd1e60510/edaaf018d0061e4cd1e60510.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/7930caeeb25652bbfe76bdce/7930caeeb25652bbfe76bdce.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/b3852412c9bb73f373178159/b3852412c9bb73f373178159.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "The Epoch of Miyu (2026) คำลวงซ้อนรัก",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/04/The-Epoch-of-Miyu-2026-คำลวงซ้อนรัก.jpg",
+            "plot": "The Epoch of Miyu (2026) คำลวงซ้อนรัก ชีวิตแต่งงานที่ “สมบูรณ์แบบ” ของสวี่มี่อวี่พังทลายลงในวันครบรอบแต่งงานปีที่สิบ เธอรู้ซึ้งถึงการยอมฝืนทนและสูญเสียตัวตนในชีวิตแต่งงาน เธอจึงตัดสินใจหย่าอย่างแน่วแน่ จี้เฟิง ผู้จัดการโรงแรม เลือกที่จะกลับไปยังจุดเริ่มต้นในอาชีพการงาน นั่นคือ โรงแรมผู่หรง",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/8d6daa8daaa5c8259d29d89b/8d6daa8daaa5c8259d29d89b.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/5e2daef6951ecbecf977c114/5e2daef6951ecbecf977c114.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/1251346b72d7e10019d2e1a4/1251346b72d7e10019d2e1a4.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/36be04010bbfb412347d20f0/36be04010bbfb412347d20f0.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/68653bb36305c1c9d075627b/68653bb36305c1c9d075627b.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/48185535e8967c37f50112bc/48185535e8967c37f50112bc.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 7",
+                            "url": "https://main.24playerhd.com/newplaylist/2c48dd0968d36a56bb7ce1fc/2c48dd0968d36a56bb7ce1fc.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 8",
+                            "url": "https://main.24playerhd.com/newplaylist/0e01f799688bce9e80fa2f38/0e01f799688bce9e80fa2f38.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 9",
+                            "url": "https://main.24playerhd.com/newplaylist/daacfd412c17452828b30113/daacfd412c17452828b30113.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 10",
+                            "url": "https://main.24playerhd.com/newplaylist/168430caced7d95e1114cfaf/168430caced7d95e1114cfaf.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 11",
+                            "url": "https://main.24playerhd.com/newplaylist/a347e47653e938b583fdb1d9/a347e47653e938b583fdb1d9.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 12",
+                            "url": "https://main.24playerhd.com/newplaylist/e29435bfb9feb0eb6c41a7e9/e29435bfb9feb0eb6c41a7e9.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Love Beyond the Grave (2026) ประทีปรักเหนือสองภพ",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/03/Love-Beyond-the-Grave-2026-ประทีปรักเหนือสองภพ.jpg",
+            "plot": "Love Beyond the Grave (2026) ประทีปรักเหนือสองภพ เฮ่อซือมู่ ราชินีผีพบกับต้วนซวี แม่ทัพน้อยโดยบังเอิญ แม่ทัพน้อยดูเหมือนจะไม่ใช่ต้วนซวีตัวจริง ทั้งสองหยั่งเชิงกัน ในที่สุดเฮ่อซือมู่ก็รู้ถึงอดีตและปณิธานของต้วนซวี และต้วนซวีก็เห็นถึงความมานะและเดียวดายของเฮ่อซือมู่ มนุษย์ที่อายุขัยไม่เกิน 100 และปีศาจที่ยังสาวแม้อายุ 400 ปี ต้านกระแสเวลาด้วยความรัก",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/488f45f19f401b54d6d9dcfc/488f45f19f401b54d6d9dcfc.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/e487896dc3e2a4d017bd7559/e487896dc3e2a4d017bd7559.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/6ac746b5422ef10e7b555724/6ac746b5422ef10e7b555724.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/cea07dee442ca4c6246cf0b4/cea07dee442ca4c6246cf0b4.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/ef1993472aad83e0929174e5/ef1993472aad83e0929174e5.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/9c4ee1e14016e323690482d7/9c4ee1e14016e323690482d7.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 7",
+                            "url": "https://main.24playerhd.com/newplaylist/0c12a092e6d48e5a6184cebf/0c12a092e6d48e5a6184cebf.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 8",
+                            "url": "https://main.24playerhd.com/newplaylist/f968fcffe77317665e4fc8ab/f968fcffe77317665e4fc8ab.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 9",
+                            "url": "https://main.24playerhd.com/newplaylist/635485659ea9860b089d5128/635485659ea9860b089d5128.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 10",
+                            "url": "https://main.24playerhd.com/newplaylist/e00d04379407f222d446276a/e00d04379407f222d446276a.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 11",
+                            "url": "https://main.24playerhd.com/newplaylist/c3da87ff1a8acd274d7c7816/c3da87ff1a8acd274d7c7816.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 12",
+                            "url": "https://main.24playerhd.com/newplaylist/36ef67861fe3db43e7d6ac58/36ef67861fe3db43e7d6ac58.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "The Boys Season 5 (2026) ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ ซีซั่น 5",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/04/The-Boys-Season-5-2026.jpg",
+            "plot": "The Boys Season 5 (2026) ก๊วนหนุ่มซ่าล่าซูเปอร์ฮีโร่ ซีซั่น 5 เป็นซีซั่นสุดท้ายของซีรีส์ ว่าด้วยเรื่องราวเมื่อทั้งโลกตกอยู่ในอำนาจมืดและความบ้าคลั่งที่คาดเดาไม่ได้ของโฮมแลนเดอร์อย่างสมบูรณ์ ฮิวอี้ (Hughie), เอ็มเอ็ม (M.M. หรือ Mother’s Milk) และเฟรนชี่ (Frenchie) ถูกจับกุมตัวไว้ใน Freedom Camp ส่วน แอนนี่ (Annie) ก็ต้องดิ้นรนอย่างหนักเพื่อรวบรวมแนวร่วมต่อกรกับกองทัพซูเปอร์ฮีโร่ที่มีพลังเหนือกว่า ในขณะที่ คิมิโกะ (Kimiko) หายตัวไปอย่างไร้ร่องรอย แต่แล้วเมื่อ บุตเชอร์ (Butcher) กลับมาปรากฏตัวอีกครั้ง พร้อมกับแผนการที่จะใช้ไวรัสล้างบางพวกซูเปอร์ฮีโร่ให้หมดสิ้นไปจากโลก เขาได้จุดชนวนเหตุการณ์ลูกโซ่ที่จะเปลี่ยนแปลงโลกและทุกคนไปตลอดกาล จนกลายเป็นจุดพลิกสำคัญของเรื่องราว เตรียมพบกับเหตุการครั้งใหญ่ที่กำลังจะเกิดขึ้นได้เลย",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/6662bf27f40fa1b3b64fea38/6662bf27f40fa1b3b64fea38.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/8e0ac903c13d5fe803ee0d0b/8e0ac903c13d5fe803ee0d0b.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/cd55967d9c49c86836333588/cd55967d9c49c86836333588.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/1bc852563bdca5b46d2941ef/1bc852563bdca5b46d2941ef.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Perfect Crown (2026) รักนี้มงลง",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/04/Perfect-Crown-2026.jpg",
+            "plot": "Perfect Crown (2026) รักนี้มงลง เรื่องราวของ ซองฮีจู ทายาทแชโบลสาวผู้เพียบพร้อมแต่ขาดการยอมรับทางสังคม แต่งงานสัญญาฉบับพิเศษกับ องค์ชายอีอัน เจ้าชายผู้สูงศักดิ์แต่ไร้อำนาจและไร้อิสระ ท่ามกลางการชิงไหวพริบในราชสำนัก",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/9ade3cd71cc3c3af4aae2748/9ade3cd71cc3c3af4aae2748.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/32d2693a4ee7483a7cf7a551/32d2693a4ee7483a7cf7a551.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/d5ca56624b9a8e4269367224/d5ca56624b9a8e4269367224.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/37fc9e0c3e9a050f15d0ced4/37fc9e0c3e9a050f15d0ced4.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Generation to Generation (2026) ทิวากาลแห่งพิรุณโปรย",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/02/Generation-to-Generation-2026-ทิวากาลแห่งพิรุณโปรย.jpg",
+            "plot": "Generation to Generation (2026) ทิวากาลแห่งพิรุณโปรย มู่ชิงเยี่ยนนายน้อยสองหน้าผู้เฉียบขาดและเจ้าเล่ห์กับจอมยุทธ์หญิงเอ้อระเหยที่ฉลาดเป็นกรดจูงมือกันฉีกหน้ากากจอมปลอมของผู้คนในยุทธภพที่ลึกลับซับซ้อน การเดินทางที่เต็มไปด้วยความรักและความเกลียดชัง การหักมุม และชิงไหวชิงพริบ",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/26b559351dbc78d6367c39f3/26b559351dbc78d6367c39f3.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/530c7bb55d573187d5fa721f/530c7bb55d573187d5fa721f.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/d774a1e8502286d518721575/d774a1e8502286d518721575.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/6a0446d318c3f8d3299d4cfb/6a0446d318c3f8d3299d4cfb.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/e2174bc2c244399916f1f27c/e2174bc2c244399916f1f27c.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/c64d863da6ec6a5aca51f45c/c64d863da6ec6a5aca51f45c.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 7",
+                            "url": "https://main.24playerhd.com/newplaylist/6766414d2bfd80438021f4f7/6766414d2bfd80438021f4f7.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 8",
+                            "url": "https://main.24playerhd.com/newplaylist/86d10732f83e3ce9069df7da/86d10732f83e3ce9069df7da.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 9",
+                            "url": "https://main.24playerhd.com/newplaylist/0d660eea744ae14b2c4acdd5/0d660eea744ae14b2c4acdd5.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 10",
+                            "url": "https://main.24playerhd.com/newplaylist/3e7fbc131df0e3eb1a6485f8/3e7fbc131df0e3eb1a6485f8.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 11",
+                            "url": "https://main.24playerhd.com/newplaylist/c08ab7ca7092a1b730eaa08c/c08ab7ca7092a1b730eaa08c.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 12",
+                            "url": "https://main.24playerhd.com/newplaylist/04ead8e11d2f5f6faeadc08b/04ead8e11d2f5f6faeadc08b.m3u8"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Pursuit of Jade (2026) ล่าหยก",
+            "type": "series",
+            "logo": "https://www.serie-days.com/wp-content/uploads/2026/03/Pursuit-of-Jade-2026-ล่าหยก.jpg",
+            "plot": "Pursuit of Jade (2026) ล่าหยก บอกเล่าเรื่องของฝานฉางอวี้ ลูกสาวคนขายหมูกับเซี่ยเจิง ท่านโหวผู้ตกอับที่ได้พบกันท่ามกลางพายุหิมะราวกับโชคชะตากำหนด คนหนึ่งสูญเสียพ่อแม่และต้องเป็นหัวหน้าครอบครัว อีกคนปิดบังตัวตนเพื่อสะสางแค้นเลือดเมื่อสิบเจ็ดปีก่อน พวกเขาร่วมกันแสดงละครแต่งงานปลอม ๆ ที่สุดท้ายกลับกลายเป็นรักแท้",
+            "seasons": [
+                {
+                    "name": "Season 1",
+                    "episodes": [
+                        {
+                            "name": "ตอนที่ 1",
+                            "url": "https://main.24playerhd.com/newplaylist/1963c981bf03472c6cebb383/1963c981bf03472c6cebb383.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 2",
+                            "url": "https://main.24playerhd.com/newplaylist/9341d584b159114b81a16adc/9341d584b159114b81a16adc.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 3",
+                            "url": "https://main.24playerhd.com/newplaylist/aa5ea71ca2eedb9a5c82a2a8/aa5ea71ca2eedb9a5c82a2a8.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 4",
+                            "url": "https://main.24playerhd.com/newplaylist/f4e409214fafb81563e90497/f4e409214fafb81563e90497.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 5",
+                            "url": "https://main.24playerhd.com/newplaylist/240f6d9bff828a80f7ecbb3a/240f6d9bff828a80f7ecbb3a.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 6",
+                            "url": "https://main.24playerhd.com/newplaylist/44146e301ca79503146f506e/44146e301ca79503146f506e.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 7",
+                            "url": "https://main.24playerhd.com/newplaylist/08a48d5db64c16a6f11c92b3/08a48d5db64c16a6f11c92b3.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 8",
+                            "url": "https://main.24playerhd.com/newplaylist/75633142b69ded638bea850e/75633142b69ded638bea850e.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 9",
+                            "url": "https://main.24playerhd.com/newplaylist/b2609f4931fb1b287f781d6c/b2609f4931fb1b287f781d6c.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 10",
+                            "url": "https://main.24playerhd.com/newplaylist/083dcbbfc0217261200d0fd2/083dcbbfc0217261200d0fd2.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 11",
+                            "url": "https://main.24playerhd.com/newplaylist/e7ce4ca8a4936a8a3fab39ba/e7ce4ca8a4936a8a3fab39ba.m3u8"
+                        },
+                        {
+                            "name": "ตอนที่ 12",
+                            "url": "https://main.24playerhd.com/newplaylist/a45458428f3b32dedc8af10b/a45458428f3b32dedc8af10b.m3u8"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
